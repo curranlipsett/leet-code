@@ -1,0 +1,14 @@
+/Users/clipset/projects/leet-code/twosum/twosum/bin/Debug/net7.0/twosum
+/Users/clipset/projects/leet-code/twosum/twosum/bin/Debug/net7.0/twosum.deps.json
+/Users/clipset/projects/leet-code/twosum/twosum/bin/Debug/net7.0/twosum.runtimeconfig.json
+/Users/clipset/projects/leet-code/twosum/twosum/bin/Debug/net7.0/twosum.dll
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.csproj.AssemblyReference.cache
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.AssemblyInfoInputs.cache
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.AssemblyInfo.cs
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.csproj.CoreCompileInputs.cache
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.dll
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/refint/twosum.dll
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.pdb
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/twosum.genruntimeconfig.cache
+/Users/clipset/projects/leet-code/twosum/twosum/obj/Debug/net7.0/ref/twosum.dll
